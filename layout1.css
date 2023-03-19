@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    height: 0px;
+}
+
+.header {
+    background-color: red;
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+    height: 50px;
+}
+
+.nav{
+    background-color: coral;
+    margin: auto;
+    width: 60%;
+    padding: 10px 5px;
+    height: 40px;
+}
+
+.section1 {
+    background-color: lime;
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin-left: 20%;
+}
+
+.A1{
+    display: block;
+    margin-bottom: 30px;
+}
+.aside {
+    background-color: yellow;
+    width: 20%;
+    height: 300px;
+    display: inline-block;
+}
+
+.Footer{
+    background-color: blueviolet;
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+    height: 50px;
+}
